@@ -344,6 +344,24 @@ Processing, Asynchronous Programming, Version Control (Git).
     Python, OpenCV, Image Processing, Computer Vision
   </p>
 </div>
+{/* License Plate Recognition System */}
+<div className="bg-slate-800 p-8 rounded-2xl shadow-lg">
+  <h3 className="text-xl font-semibold text-cyan-400">
+    License Plate Recognition System
+  </h3>
+  <p className="mt-4 text-gray-400">
+    Built an Automatic License Plate Recognition (ALPR) system using
+    OpenCV and Pytesseract OCR to extract vehicle registration numbers
+    from images and video feeds. Implemented grayscale conversion,
+    Canny Edge Detection, contour filtering, and region-of-interest (ROI)
+    extraction for accurate license plate localization before text recognition.
+  </p>
+  <p className="text-sm text-gray-500 mt-4">
+    Python, OpenCV, Canny Edge Detection, Pytesseract, OCR,
+    Computer Vision, Image Processing
+  </p>
+</div>
+
 
 
         </div>
