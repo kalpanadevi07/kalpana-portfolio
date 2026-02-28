@@ -239,133 +239,183 @@ export default function Home() {
 
 
       {/* PROJECTS */}
-      <section id="projects" className="py-20 px-6">
-        <h2 className="text-3xl font-bold text-center mb-14">
-          Featured Projects
-        </h2>
+<section id="projects" className="py-20 px-6">
+  <h2 className="text-3xl font-bold text-center mb-14">
+    Featured Projects
+  </h2>
 
-        <div className="grid md:grid-cols-2 gap-10 max-w-6xl mx-auto">
+  <div className="grid md:grid-cols-2 gap-10 max-w-6xl mx-auto">
 
-          <div className="bg-slate-800 p-8 rounded-2xl shadow-lg">
-            <h3 className="text-xl font-semibold text-cyan-400">
-              AI-Based Automated Web Analysis & SEO System
-            </h3>
-            <p className="mt-4 text-gray-400">
-              Modular backend system for automated web scraping, contextual
-              filtering, and structured SEO report generation using LLM
-              integration and asynchronous API workflows.
-            </p>
-            <p className="text-sm text-gray-500 mt-4">
-    Python, FastAPI, Node.js, Headless Browser Automation, REST APIs, JSON
-Processing, Asynchronous Programming, Version Control (Git).
-  </p>
-          </div>
+    {/* AI-Based Automated Web Analysis System */}
+<div className="relative bg-slate-800 p-8 rounded-2xl shadow-xl 
+                border border-cyan-400 
+                hover:shadow-cyan-500/40 
+                ">
 
-          <div className="bg-slate-800 p-8 rounded-2xl shadow-lg">
-            <h3 className="text-xl font-semibold text-cyan-400">
-              Hybrid AI Chatbot (RAG Architecture)
-            </h3>
-            <p className="mt-4 text-gray-400">
-              Production-ready chatbot integrating FAISS-based semantic retrieval
-              with OpenAI APIs, strict brand-tone enforcement, and scalable service orchestration.
-            </p>
-            <p className="text-sm text-gray-500 mt-4">
-    Python, FastAPI, OpenAI API, FAISS, RAG, LLMs, REST APIs, Web Scraping
-  </p>
-          </div>
+  {/* LIVE Badge */}
+  <span className="absolute top-4 right-4 bg-green-500 text-xs px-3 py-1 rounded-full text-white font-semibold shadow-lg">
+    LIVE
+  </span>
 
-          <div className="bg-slate-800 p-8 rounded-2xl shadow-lg">
-            <h3 className="text-xl font-semibold text-cyan-400">
-              Gmail Automation System
-            </h3>
-            <p className="mt-4 text-gray-400">
-              Secure Gmail automation using OAuth 2.0 authentication, token-based
-              authorization, unsubscribe detection logic, and background task execution.
-            </p>
-             <p className="text-sm text-gray-500 mt-4">
-    Python, FastAPI, Gmail API, OAuth 2.0, REST APIs, Swagger UI, Background Tasks
-  </p>
-          </div>
-
-          <div className="bg-slate-800 p-8 rounded-2xl shadow-lg">
-            <h3 className="text-xl font-semibold text-cyan-400">
-              IoT Automated Hydroponic System
-            </h3>
-            <p className="mt-4 text-gray-400">
-              ESP32-based hydroponic automation system with sensor integration
-              and real-time monitoring via AWS IoT Core and Blynk.
-            </p>
-            <p className="text-sm text-gray-500 mt-4">
-    Arduino, ESP32, AWS IoT Core, ThingSpeak, Blynk, Sensors and IoT
-  </p>
-          </div>
-          {/* AI Web Scraper & Summarizer */}
-<div className="bg-slate-800 p-8 rounded-2xl shadow-lg">
   <h3 className="text-xl font-semibold text-cyan-400">
-    AI-Powered Web Scraper & Article Summarizer
+    AI-Based Automated Web Analysis System
   </h3>
-  <p className="mt-4 text-gray-400">
-    Developed an end-to-end Python application that scrapes news/blog
-    articles, generates AI-based summaries, and stores structured
-    results in Supabase. Built a simple frontend to display article
-    titles, summaries, and metadata.
+
+  <p className="text-sm text-green-400 mt-1">
+    brandingbeez.co.uk
   </p>
+
+  <p className="mt-4 text-gray-400">
+    Developed and deployed a production-grade AI web analysis platform
+    for automated scraping, keyword extraction, and structured SEO
+    report generation using LLM integration. Built a modular backend
+    architecture actively used in live client environments.
+  </p>
+
   <p className="text-sm text-gray-500 mt-4">
-    Python, Web Scraping, AI/NLP, Supabase, HTML, CSS
+    Python, FastAPI, Node.js, REST APIs, Headless Automation
   </p>
 </div>
 
-{/* Face Recognition System */}
-<div className="bg-slate-800 p-8 rounded-2xl shadow-lg">
+   {/* Hybrid AI Chatbot with RAG */}
+<div className="relative bg-slate-800 p-8 rounded-2xl shadow-xl 
+                border border-cyan-400 
+                hover:shadow-cyan-500/40 
+                ">
+
+  <span className="absolute top-4 right-4 bg-green-500 text-xs px-3 py-1 rounded-full text-white font-semibold shadow-lg">
+    LIVE
+  </span>
+
   <h3 className="text-xl font-semibold text-cyan-400">
-    Face Recognition System
+    Hybrid AI Chatbot with RAG Architecture
   </h3>
-  <p className="mt-4 text-gray-400">
-    Implemented real-time face detection and recognition using
-    OpenCV and Haar Cascade classifiers, optimized for efficient
-    video frame processing and live recognition accuracy.
+
+  <p className="text-sm text-green-400 mt-1">
+    acgraphics.com
   </p>
+
+  <p className="mt-4 text-gray-400">
+    Designed and deployed a production-ready RAG-based AI chatbot
+    using FastAPI, OpenAI APIs, and FAISS. Implemented intent
+    classification, brand-tone enforcement, and fallback mechanisms
+    within a scalable architecture.
+  </p>
+
   <p className="text-sm text-gray-500 mt-4">
-    Python, OpenCV, Haar Cascade, Computer Vision
+    Python, FastAPI, OpenAI API, FAISS, RAG
+  </p>
+</div>
+{/* Gmail Automation System */}
+<div className="relative bg-slate-800 p-8 rounded-2xl shadow-xl 
+                border border-cyan-400 
+                hover:shadow-cyan-500/40 
+                
+                
+            ">
+  <span className="absolute top-4 right-4 bg-green-500 text-xs px-3 py-1 rounded-full text-white font-semibold shadow-lg">
+    LIVE
+  </span>
+
+  <h3 className="text-xl font-semibold text-cyan-400">
+    Gmail Automation System
+  </h3>
+
+  <p className="text-sm text-green-400 mt-1">
+    Octupus.ai
+  </p>
+
+  <p className="mt-4 text-gray-400">
+    Built and integrated a live Gmail automation system using OAuth 2.0
+    Gmail API authentication. Designed scalable backend workflows with
+    background task execution and production-grade API documentation.
+  </p>
+
+  <p className="text-sm text-gray-500 mt-4">
+    Python, FastAPI, Gmail API, OAuth 2.0
   </p>
 </div>
 
-{/* Moving Object Detection */}
-<div className="bg-slate-800 p-8 rounded-2xl shadow-lg">
-  <h3 className="text-xl font-semibold text-cyan-400">
-    Moving Object Detection
-  </h3>
-  <p className="mt-4 text-gray-400">
-    Built a real-time motion detection system using Python and OpenCV,
-    applying image processing techniques and contour tracking for
-    accurate object movement detection.
-  </p>
-  <p className="text-sm text-gray-500 mt-4">
-    Python, OpenCV, Image Processing, Computer Vision
-  </p>
-</div>
-{/* License Plate Recognition System */}
-<div className="bg-slate-800 p-8 rounded-2xl shadow-lg">
-  <h3 className="text-xl font-semibold text-cyan-400">
-    License Plate Recognition System
-  </h3>
-  <p className="mt-4 text-gray-400">
-    Built an Automatic License Plate Recognition (ALPR) system using
-    OpenCV and Pytesseract OCR to extract vehicle registration numbers
-    from images and video feeds. Implemented grayscale conversion,
-    Canny Edge Detection, contour filtering, and region-of-interest (ROI)
-    extraction for accurate license plate localization before text recognition.
-  </p>
-  <p className="text-sm text-gray-500 mt-4">
-    Python, OpenCV, Canny Edge Detection, Pytesseract, OCR,
-    Computer Vision, Image Processing
-  </p>
-</div>
+    {/* IoT Automated Hydroponic System */}
+    <div className="bg-slate-800 p-8 rounded-2xl shadow-lg">
+      <h3 className="text-xl font-semibold text-cyan-400">
+        IoT Automated Hydroponic System
+      </h3>
+      <p className="mt-4 text-gray-400">
+        ESP32-based hydroponic automation system with sensor integration
+        and real-time monitoring via AWS IoT Core and Blynk.
+      </p>
+      <p className="text-sm text-gray-500 mt-4">
+        Arduino, ESP32, AWS IoT Core, ThingSpeak, Blynk, Sensors and IoT
+      </p>
+    </div>
 
+    {/* AI Web Scraper & Summarizer */}
+    <div className="bg-slate-800 p-8 rounded-2xl shadow-lg">
+      <h3 className="text-xl font-semibold text-cyan-400">
+        AI-Powered Web Scraper & Article Summarizer
+      </h3>
+      <p className="mt-4 text-gray-400">
+        Developed an end-to-end Python application that scrapes news/blog
+        articles, generates AI-based summaries, and stores structured
+        results in Supabase. Built a simple frontend to display article
+        titles, summaries, and metadata.
+      </p>
+      <p className="text-sm text-gray-500 mt-4">
+        Python, Web Scraping, AI/NLP, Supabase, HTML, CSS
+      </p>
+    </div>
 
+    {/* Face Recognition System */}
+    <div className="bg-slate-800 p-8 rounded-2xl shadow-lg">
+      <h3 className="text-xl font-semibold text-cyan-400">
+        Face Recognition System
+      </h3>
+      <p className="mt-4 text-gray-400">
+        Implemented real-time face detection and recognition using
+        OpenCV and Haar Cascade classifiers, optimized for efficient
+        video frame processing and live recognition accuracy.
+      </p>
+      <p className="text-sm text-gray-500 mt-4">
+        Python, OpenCV, Haar Cascade, Computer Vision
+      </p>
+    </div>
 
-        </div>
-      </section>
+    {/* Moving Object Detection */}
+    <div className="bg-slate-800 p-8 rounded-2xl shadow-lg">
+      <h3 className="text-xl font-semibold text-cyan-400">
+        Moving Object Detection
+      </h3>
+      <p className="mt-4 text-gray-400">
+        Built a real-time motion detection system using Python and OpenCV,
+        applying image processing techniques and contour tracking for
+        accurate object movement detection.
+      </p>
+      <p className="text-sm text-gray-500 mt-4">
+        Python, OpenCV, Image Processing, Computer Vision
+      </p>
+    </div>
+
+    {/* License Plate Recognition System */}
+    <div className="bg-slate-800 p-8 rounded-2xl shadow-lg">
+      <h3 className="text-xl font-semibold text-cyan-400">
+        License Plate Recognition System
+      </h3>
+      <p className="mt-4 text-gray-400">
+        Built an Automatic License Plate Recognition (ALPR) system using
+        OpenCV and Pytesseract OCR to extract vehicle registration numbers
+        from images and video feeds. Implemented grayscale conversion,
+        Canny Edge Detection, contour filtering, and region-of-interest (ROI)
+        extraction for accurate license plate localization before text recognition.
+      </p>
+      <p className="text-sm text-gray-500 mt-4">
+        Python, OpenCV, Canny Edge Detection, Pytesseract, OCR,
+        Computer Vision, Image Processing
+      </p>
+    </div>
+
+  </div>
+</section>
     {/* ACHIEVEMENTS SECTION */}
 <section id="achievements" className="py-20 px-6 bg-slate-900">
   <h2 className="text-3xl font-bold text-center mb-16">
