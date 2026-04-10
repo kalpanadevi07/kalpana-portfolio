@@ -97,7 +97,7 @@ export default function Home() {
         AI Tools and Frameworks
       </h3>
       <p>
-        Generative AI (GenAI), LangGraph, LLM Integration, Prompt Engineering, Retrieval-Augmented Generation (RAG)
+        Generative AI (GenAI),Dialogflow, LangGraph, LLM Integration, Prompt Engineering, Retrieval-Augmented Generation (RAG)
       </p>
     </div>
 
