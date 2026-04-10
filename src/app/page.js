@@ -77,7 +77,7 @@ export default function Home() {
       <h3 className="text-cyan-400 font-semibold mb-4">
         Programming Languages
       </h3>
-      <p>Python, C,JavaScript, HTML,CSS</p>
+      <p>Python, C,JavaScript,Node.js,HTML,CSS</p>
     </div>
 
     {/* Backend */}
@@ -91,13 +91,33 @@ export default function Home() {
       </p>
     </div>
 
+    {/* AI tools and frameworks */}
+    <div className="bg-slate-800 p-6 rounded-2xl">
+      <h3 className="text-cyan-400 font-semibold mb-4">
+        AI Tools and Frameworks
+      </h3>
+      <p>
+        Generative AI (GenAI), LangGraph, LLM Integration, Prompt Engineering, Retrieval-Augmented Generation (RAG)
+      </p>
+    </div>
+
+    {/* AI and Machine learning */}
+    <div className="bg-slate-800 p-6 rounded-2xl">
+      <h3 className="text-cyan-400 font-semibold mb-4">
+        AI and Machine learning
+      </h3>
+      <p>
+        Machine Learning, NLP, Computer Vision, Deep Learning (Basics), Feature Engineering, Model Evaluation
+      </p>
+    </div>
+
     {/* Databases */}
     <div className="bg-slate-800 p-6 rounded-2xl">
       <h3 className="text-cyan-400 font-semibold mb-4">
         Databases & Storage
       </h3>
       <p>
-        Supabase, SQL (Basics), Data Modeling, Vector Indexing (FAISS)
+        Supabase, SQL (Basics), Data Modeling, Vector Indexing (FAISS),MongoDB (Basics)
       </p>
     </div>
 
@@ -129,7 +149,7 @@ export default function Home() {
         Tools & Platforms
       </h3>
       <p>
-        Git, GitHub, Swagger UI, VS Code
+        Git, GitHub, Swagger UI, VS Code,Postman
       </p>
     </div>
 
