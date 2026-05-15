@@ -186,7 +186,7 @@ export default function Home() {
     </span>
 
     <h3 className="text-lg font-bold text-cyan-300 mt-2">
-      Python & AI Developer Intern
+      Python & AI Developer 
     </h3>
 
     <p className="text-cyan-400 text-sm mt-1 font-medium">
