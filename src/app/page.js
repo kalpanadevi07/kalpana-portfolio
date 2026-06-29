@@ -369,6 +369,42 @@ export default function Home() {
         Arduino, ESP32, AWS IoT Core, ThingSpeak, Blynk, Sensors and IoT
       </p>
     </div>
+  {/* AI Event Registration Platform (Live Production) */}
+<div className="bg-slate-800 p-8 rounded-2xl shadow-lg border-2 border-cyan-400 shadow-cyan-500/30 hover:shadow-cyan-500/60 hover:scale-105 transition-all duration-300">
+  <div className="flex items-center justify-between mb-2">
+    <h3 className="text-xl font-semibold text-cyan-400">
+      AI Event Registration Platform
+    </h3>
+    <span className="px-3 py-1 text-xs font-semibold text-cyan-300 border border-cyan-400 rounded-full animate-pulse">
+      🚀 LIVE
+    </span>
+  </div>
+
+  <p className="mt-4 text-gray-400">
+    Developed and deployed a production-ready event registration platform for
+    <span className="text-cyan-300 font-medium"> BrandingBeez</span>,
+    enabling seamless registration for BNI HVAC business events. Implemented
+    automated 5-email workflows using Zoho SMTP, dynamic event switching,
+    MongoDB multi-event architecture, real-time seat availability, social proof
+    notifications, scheduled reminder emails with EST timezone support, and
+    Google Tag Manager integration for conversion tracking. The application is
+    actively used in production by business clients.
+  </p>
+
+  <p className="text-sm text-gray-500 mt-4">
+    React, Node.js, Express.js, MongoDB Atlas, Nodemailer, Zoho SMTP,
+    node-cron, Google Tag Manager (GTM), REST APIs
+  </p>
+
+  <a
+    href="https://www.brandingbeez.co.uk/events/meeting/"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="inline-flex items-center mt-5 text-cyan-400 hover:text-cyan-300 font-medium transition-colors"
+  >
+    🔗 View Live Project →
+  </a>
+</div>
 
     {/* AI Web Scraper & Summarizer */}
     <div className="bg-slate-800 p-8 rounded-2xl shadow-lg">
