@@ -52,7 +52,7 @@ export default function Home() {
           </a>
           {/* Resume Download */}
   <a
-    href="/T.Kalpana_devi-AI developer(resume).pdf"
+    href="/Kalpana devi.T-Resume .pdf"
     download
     className="bg-cyan-500 px-8 py-3 rounded-xl text-black font-semibold hover:bg-cyan-400 transition"
   >
