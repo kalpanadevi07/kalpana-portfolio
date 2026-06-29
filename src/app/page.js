@@ -375,9 +375,9 @@ export default function Home() {
     <h3 className="text-xl font-semibold text-cyan-400">
       AI Event Registration Platform
     </h3>
-    <span className="px-3 py-1 text-xs font-semibold text-cyan-300 border border-cyan-400 rounded-full animate-pulse">
-      🚀 LIVE
-    </span>
+   <span className="absolute top-4 right-4 bg-green-500 text-xs px-3 py-1 rounded-full text-white font-semibold shadow-lg">
+    LIVE
+  </span>
   </div>
 
   <p className="mt-4 text-gray-400">
