@@ -77,7 +77,7 @@ export default function Home() {
       <h3 className="text-cyan-400 font-semibold mb-4">
         Programming Languages
       </h3>
-      <p>Python, C,JavaScript,Node.js,HTML,CSS</p>
+      <p>Python, C,JavaScript,Node.js,HTML,CSS,React.js</p>
     </div>
 
     {/* Backend */}
