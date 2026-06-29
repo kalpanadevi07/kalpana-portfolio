@@ -356,6 +356,40 @@ export default function Home() {
   </p>
 </div>
 
+  {/* AI Event Registration Platform */}
+<div className="relative bg-slate-800 p-8 rounded-2xl shadow-xl 
+                border border-cyan-400 
+                hover:shadow-cyan-500/40 
+                
+                
+            ">
+  <span className="absolute top-4 right-4 bg-green-500 text-xs px-3 py-1 rounded-full text-white font-semibold shadow-lg">
+    LIVE
+  </span>
+
+  <h3 className="text-xl font-semibold text-cyan-400">
+    AI Event Registration Platform
+  </h3>
+
+  <p className="text-sm text-green-400 mt-1">
+    brandingbeez.co.uk
+  </p>
+
+  <p className="mt-4 text-gray-400">
+    Built a full-stack event registration system for BNI HVAC business owners
+    featuring automated 5-email sequences via Zoho SMTP, date-based dynamic
+    form switching between events, MongoDB multi-event architecture with
+    compound indexing, real-time seat countdown with social proof popups,
+    cron-scheduled reminders with EST precision, and Google Tag Manager
+    integration for funnel analytics.
+  </p>
+
+  <p className="text-sm text-gray-500 mt-4">
+     React, Node.js, Express, MongoDB Atlas, Nodemailer, Zoho Mail, node-cron, GTM
+  </p>
+</div>
+
+
     {/* IoT Automated Hydroponic System */}
     <div className="bg-slate-800 p-8 rounded-2xl shadow-lg">
       <h3 className="text-xl font-semibold text-cyan-400">
@@ -369,42 +403,7 @@ export default function Home() {
         Arduino, ESP32, AWS IoT Core, ThingSpeak, Blynk, Sensors and IoT
       </p>
     </div>
-  {/* AI Event Registration Platform (Live Production) */}
-<div className="bg-slate-800 p-8 rounded-2xl shadow-lg border-2 border-cyan-400 shadow-cyan-500/30 hover:shadow-cyan-500/60 hover:scale-105 transition-all duration-300">
-  <div className="flex items-center justify-between mb-2">
-    <h3 className="text-xl font-semibold text-cyan-400">
-      AI Event Registration Platform
-    </h3>
-   <span className="absolute top-4 right-4 bg-green-500 text-xs px-3 py-1 rounded-full text-white font-semibold shadow-lg">
-    LIVE
-  </span>
-  </div>
-
-  <p className="mt-4 text-gray-400">
-    Developed and deployed a production-ready event registration platform for
-    <span className="text-cyan-300 font-medium"> BrandingBeez</span>,
-    enabling seamless registration for BNI HVAC business events. Implemented
-    automated 5-email workflows using Zoho SMTP, dynamic event switching,
-    MongoDB multi-event architecture, real-time seat availability, social proof
-    notifications, scheduled reminder emails with EST timezone support, and
-    Google Tag Manager integration for conversion tracking. The application is
-    actively used in production by business clients.
-  </p>
-
-  <p className="text-sm text-gray-500 mt-4">
-    React, Node.js, Express.js, MongoDB Atlas, Nodemailer, Zoho SMTP,
-    node-cron, Google Tag Manager (GTM), REST APIs
-  </p>
-
-  <a
-    href="https://www.brandingbeez.co.uk/events/meeting/"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="inline-flex items-center mt-5 text-cyan-400 hover:text-cyan-300 font-medium transition-colors"
-  >
-    🔗 View Live Project →
-  </a>
-</div>
+  
 
     {/* AI Web Scraper & Summarizer */}
     <div className="bg-slate-800 p-8 rounded-2xl shadow-lg">
