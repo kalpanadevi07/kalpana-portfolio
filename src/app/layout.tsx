@@ -5,6 +5,7 @@ import { Footer } from "@/components/Footer";
 import { Navigation } from "@/components/Navigation";
 import { PageTransition } from "@/components/PageTransition";
 import "./globals.css";
+import "./mobile.css";
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
 
