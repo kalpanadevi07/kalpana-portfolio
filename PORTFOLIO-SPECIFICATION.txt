@@ -1,0 +1,1007 @@
+Create a complete, premium, futuristic, highly animated personal portfolio website for:
+
+NAME:
+Kalpana Devi T
+
+PRIMARY PROFESSIONAL POSITIONING:
+Python & AI Developer
+Backend Developer
+AI Automation Engineer
+Generative AI and RAG Developer
+
+TARGET AUDIENCE:
+Recruiters, hiring managers, AI startups, software companies, technology agencies, potential collaborators, and clients looking for Python, backend, GenAI, RAG, automation, API development, and AI-integrated web application expertise.
+
+PRIMARY WEBSITE GOAL:
+Build a memorable portfolio that demonstrates that Kalpana is not merely a student or beginner, but a developer with hands-on experience building and deploying production AI systems, scalable APIs, RAG chatbots, email automation workflows, event platforms, web-analysis tools, and computer-vision applications.
+
+The portfolio must feel technically advanced, premium, confident, intelligent, and futuristic while remaining professional, readable, fast, recruiter-friendly, and mobile responsive.
+
+Do not create a generic portfolio template.
+
+==================================================
+1. WEBSITE ARCHITECTURE
+==================================================
+
+Create the following pages:
+
+1. Home
+2. About
+3. Projects
+4. Individual project case-study pages for the four most important projects
+5. Experience
+6. Contact
+
+Use smooth page transitions between pages.
+
+The Home page should still provide a complete overview, while the dedicated pages provide more information.
+
+Create a sticky navigation bar with:
+
+Home
+About
+Experience
+Projects
+Skills
+Achievements
+Contact
+
+Include a clearly visible “Download Resume” button.
+
+On desktop, use a compact glass-effect navigation bar.
+On mobile, use a clean animated menu with large touch-friendly links.
+
+==================================================
+2. VISUAL DESIGN DIRECTION
+==================================================
+
+Create a “Midnight AI Laboratory” visual identity.
+
+The design should feel like a combination of:
+
+• A futuristic AI research interface
+• A premium software engineer portfolio
+• A dark cinematic technology dashboard
+• A modern product website
+• A clean developer terminal environment
+
+COLOR PALETTE:
+
+Main background:
+#05070D
+
+Secondary background:
+#090D18
+
+Elevated cards:
+rgba(15, 23, 42, 0.65)
+
+Primary accent:
+Electric violet #8B5CF6
+
+Secondary accent:
+Cyber cyan #22D3EE
+
+Supporting accent:
+Digital mint #5EEAD4
+
+Primary text:
+#F8FAFC
+
+Secondary text:
+#A8B3CF
+
+Borders:
+Subtle violet-to-cyan gradient borders with very low opacity
+
+Use gradients carefully. Avoid overly bright, childish, rainbow, or neon-heavy visuals.
+
+Create depth using:
+
+• Soft radial lighting
+• Blurred gradient orbs
+• Glassmorphism
+• Subtle grid patterns
+• Thin glowing borders
+• Layered transparent panels
+• Background noise texture
+• Soft shadows
+• Depth-based parallax
+
+Maintain generous spacing and excellent readability.
+
+TYPOGRAPHY:
+
+Use a strong futuristic display font for headings and a highly readable modern sans-serif font for paragraphs.
+
+Recommended style:
+• Headings similar to Space Grotesk, Sora, or Syne
+• Body similar to Inter or Manrope
+• Code labels similar to JetBrains Mono
+
+Use large, bold headings, short paragraphs, and clear visual hierarchy.
+
+==================================================
+3. OPENING EXPERIENCE
+==================================================
+
+Add a short premium loading animation lasting no more than 1.5 to 2 seconds.
+
+Animation concept:
+
+1. A small “KD” monogram appears.
+2. A scanning line passes through it.
+3. Text briefly displays:
+   “Initializing Intelligent Systems”
+4. The interface smoothly reveals the home page.
+
+Do not make the loading animation appear repeatedly during normal navigation.
+
+Include an optional subtle opening sound indicator, but keep sound disabled by default.
+
+==================================================
+4. HERO SECTION
+==================================================
+
+Create a full-screen cinematic hero section.
+
+Main content:
+
+Eyebrow label:
+AVAILABLE FOR AI, PYTHON & BACKEND OPPORTUNITIES
+
+Primary heading:
+Hi, I’m Kalpana Devi.
+
+Animated role line:
+I build intelligent digital systems.
+
+Create an animated rotating role display with:
+
+Python & AI Developer
+Backend Developer
+RAG Systems Engineer
+AI Automation Developer
+Generative AI Developer
+
+Hero supporting text:
+
+“Python and AI Developer building production-ready RAG systems, scalable backend APIs, intelligent automation workflows, AI-powered web-analysis platforms, and full-stack applications that solve real business problems.”
+
+Add two primary buttons:
+
+1. Explore My Work
+2. Download Resume
+
+Add secondary icon links for:
+
+GitHub: github.com/kalpanadevi07
+LinkedIn: linkedin.com/in/kalpana-devi-4b1140264
+Email: kalpanadevi7e@gmail.com
+
+Use the latest uploaded resume PDF for the Download Resume button. Do not use an outdated resume from the existing website.
+
+HERO VISUAL:
+
+On the right side, create an animated abstract AI systems interface rather than a generic stock image.
+
+It should contain:
+
+• A glowing central AI core
+• Connected data nodes
+• API request lines
+• RAG retrieval paths
+• Small floating labels such as FastAPI, Python, LLM, FAISS, OAuth, MongoDB, React and Docker
+• A miniature terminal showing fictional but realistic system-status lines
+• A data flow from “Input” to “API” to “AI Engine” to “Response”
+
+Do not display fake performance statistics.
+
+If a professional photo is uploaded, integrate it subtly inside a futuristic glass frame without making it dominate the hero.
+
+If no photo is available, use an elegant “KD” monogram or abstract developer avatar. Do not generate a fake human face.
+
+HERO ANIMATIONS:
+
+• Text reveal on load
+• Subtle character-by-character heading animation
+• Slow parallax movement
+• Cursor-responsive background glow
+• Animated connecting nodes
+• Floating technology labels
+• Magnetic hover effect on CTA buttons
+• Smooth scroll indicator
+
+Keep animation elegant and controlled.
+
+==================================================
+5. PROFESSIONAL VALUE SECTION
+==================================================
+
+Add a section titled:
+
+“Turning complex workflows into intelligent products.”
+
+Use three premium cards:
+
+AI Systems
+“Building LLM-powered applications, RAG pipelines, intelligent chatbots, prompt workflows and AI analysis tools.”
+
+Backend Engineering
+“Designing modular FastAPI and Node.js services, secure APIs, background tasks, authentication workflows and scalable data architectures.”
+
+Automation
+“Creating systems that reduce repetitive work through email automation, web scraping, scheduled processes and API integrations.”
+
+Animate each card with a subtle 3D tilt and border glow on hover.
+
+==================================================
+6. ABOUT SECTION
+==================================================
+
+Section heading:
+More than code. I build systems that work in the real world.
+
+About copy:
+
+“I am a Python and AI Developer with hands-on experience building production AI applications, scalable backend services and automation platforms. My work includes RAG-based chatbots, AI-powered website analysis, Gmail automation, full-stack event platforms, web scraping and computer-vision systems.
+
+I enjoy transforming complex business requirements into structured, maintainable and practical software solutions. My approach combines backend engineering, Generative AI, automation and user-focused product development.”
+
+Add a compact personal information panel:
+
+Location:
+Theni, Tamil Nadu, India
+
+Education:
+B.E. Computer Science Engineering
+
+Institution:
+Jansons Institute of Technology, Coimbatore
+
+Academic period:
+2022–2026
+
+CGPA:
+7.8
+
+Current role:
+Python & AI Developer at BrandingBeez
+
+Add visually attractive status chips:
+
+Open to AI opportunities
+Backend engineering
+Generative AI
+Python development
+Automation systems
+
+Do not add fake hobbies, personal quotes, languages or personality claims.
+
+==================================================
+7. AI SYSTEM ARCHITECTURE SHOWCASE
+==================================================
+
+Create a unique interactive section titled:
+
+“How I Think About Intelligent Systems”
+
+Show an animated system architecture flow:
+
+User Input
+↓
+FastAPI / Node.js API
+↓
+Authentication and Validation
+↓
+LLM or AI Processing
+↓
+RAG Retrieval
+↓
+FAISS / Vector Database
+↓
+Structured Response
+↓
+Frontend or Automation Output
+
+Each node should illuminate as the flow progresses.
+
+When users hover over a node, show a small explanation.
+
+Example explanations:
+
+FastAPI:
+“High-performance Python APIs with validation and structured documentation.”
+
+RAG:
+“Retrieves relevant knowledge before generating a grounded response.”
+
+FAISS:
+“Efficient vector indexing and similarity-based retrieval.”
+
+OAuth 2.0:
+“Secure authorization for third-party services such as Gmail.”
+
+Make this educational and visually impressive without pretending it is a live production monitor.
+
+==================================================
+8. TECHNICAL SKILLS
+==================================================
+
+Section title:
+Technologies behind the systems
+
+Organize skills into clean interactive categories.
+
+PROGRAMMING AND FRONTEND:
+Python
+JavaScript
+C
+HTML
+CSS
+React
+Next.js
+
+BACKEND AND APIs:
+FastAPI
+Node.js
+Express
+RESTful APIs
+API Integration
+OAuth 2.0
+Token-Based Authorization
+Background Task Processing
+
+AI AND MACHINE LEARNING:
+Generative AI
+LLM Integration
+Retrieval-Augmented Generation
+Prompt Engineering
+LangGraph
+Dialogflow
+Natural Language Processing
+Machine Learning
+Computer Vision
+Deep Learning
+Feature Engineering
+Model Evaluation
+
+DATABASES AND STORAGE:
+Supabase
+MongoDB
+SQL
+FAISS
+Vector Databases
+Data Modeling
+
+LIBRARIES:
+Pandas
+NumPy
+Scikit-learn
+Keras
+OpenCV
+Puppeteer
+
+TOOLS AND PLATFORMS:
+Git
+GitHub
+Docker
+Postman
+Swagger UI
+VS Code
+Headless Browser Automation
+
+ARCHITECTURE:
+Modular Architecture
+Scalable System Design
+Configuration-Driven Development
+Service-Oriented Architecture
+
+VISUAL PRESENTATION:
+
+Use an animated technology constellation or orbital interface on desktop.
+
+On mobile, convert it into clean expandable skill cards.
+
+Do not use inaccurate percentage progress bars such as “Python 95%.”
+
+==================================================
+9. WORK EXPERIENCE
+==================================================
+
+Section title:
+Experience building practical technology
+
+Use a vertically animated timeline.
+
+CURRENT POSITION:
+
+Python & AI Developer
+BrandingBeez, Coimbatore
+2025–Present
+
+Description:
+
+• Built a production AI web-analysis platform that automates website scraping, keyword extraction and SEO report generation using LLM integration, FastAPI and Node.js.
+
+• Deployed a RAG-based AI chatbot using FastAPI, OpenAI API and FAISS with intent classification, brand-tone enforcement and real-time fallback handling.
+
+• Built a Gmail automation system using OAuth 2.0 with automated unsubscribe processing, background-task execution and Swagger UI documentation.
+
+• Developed an AI-powered web scraper and article summarizer that stores structured information in Supabase and displays the content through an HTML/CSS frontend.
+
+INTERNSHIP EXPERIENCE:
+
+Data Analytics, Artificial Intelligence and Machine Learning Intern
+Novitech R&D Pvt. Ltd
+2022–2024
+
+“Completed three focused internships covering data analytics, artificial intelligence and machine learning, gaining experience in model building, feature engineering and data pipelines.”
+
+IoT Intern
+Iyarkai Tech Lab Pvt. Ltd, Chennai
+2023
+
+“Worked on IoT-based embedded systems and sensor-integration projects.”
+
+Business Analyst Intern
+Sakthi Veera Green Energy Pvt. Ltd, Chennai
+2023
+
+“Analysed business processes related to freeze-drying machinery operations and delivered structured reports.”
+
+Add a small “Currently Working” animated status marker beside the BrandingBeez role.
+
+==================================================
+10. FEATURED PROJECTS
+==================================================
+
+Section heading:
+Selected systems and products
+
+Subheading:
+A collection of production AI systems, automation platforms, full-stack applications and computer-vision projects.
+
+Provide category filters:
+
+All
+Production AI
+Backend
+Automation
+Full Stack
+Computer Vision
+IoT
+
+Each project card must contain:
+
+• Project title
+• One-sentence value statement
+• Short description
+• Technology stack
+• Category
+• Live status where applicable
+• View Case Study button
+• Live Website button only when a real URL exists
+• GitHub button only when a real repository URL is provided
+
+Do not create broken or fake buttons.
+
+FEATURED PROJECT 1:
+
+AI-Based Automated Web Analysis System
+
+Website:
+brandingbeez.co.uk
+
+Category:
+Production AI / Backend
+
+Description:
+“Developed and deployed a production-grade AI web-analysis platform that automates website scraping, keyword extraction and structured SEO report generation using LLM integration and modular backend services.”
+
+Technology:
+Python, FastAPI, Node.js, REST APIs, LLM Integration, Headless Browser Automation
+
+Case-study structure:
+Challenge
+System architecture
+AI workflow
+Backend responsibilities
+Key engineering decisions
+Outcome
+
+FEATURED PROJECT 2:
+
+Hybrid AI Chatbot with RAG Architecture
+
+Website:
+acgraphics.com
+
+Category:
+Production AI / RAG
+
+Description:
+“Designed and deployed a production RAG chatbot using FastAPI, OpenAI APIs and FAISS, with intent classification, brand-tone enforcement and fallback handling.”
+
+Technology:
+Python, FastAPI, OpenAI API, FAISS, RAG, REST APIs
+
+Illustrate this project using an animated flow:
+Question → Intent Classification → Retrieval → Context → LLM → Brand-Safe Response
+
+FEATURED PROJECT 3:
+
+Gmail Automation System
+
+Product:
+Octupus.ai
+
+Category:
+Automation / Backend
+
+Description:
+“Built a Gmail automation system using OAuth 2.0 and Gmail API authentication, supporting automated unsubscribe processing, background execution and production-grade API documentation.”
+
+Technology:
+Python, FastAPI, Gmail API, OAuth 2.0, Background Tasks, Swagger UI
+
+FEATURED PROJECT 4:
+
+AI Event Registration Platform
+
+Website:
+brandingbeez.co.uk/events
+
+Category:
+Full Stack / Automation
+
+Description:
+“Built a full-stack multi-event registration platform for business events with dynamic registration forms, live seat countdowns, automated email sequences, scheduled reminders and analytics integration.”
+
+Technology:
+React, Node.js, Express, MongoDB Atlas, Nodemailer, Zoho Mail, node-cron, Google Tag Manager
+
+Project details:
+
+• Automated five-email event sequences
+• Multi-event MongoDB architecture
+• Dynamic event-based form switching
+• Live seat countdown
+• Social-proof registration notifications
+• Cron-scheduled reminders
+• Funnel tracking through Google Tag Manager
+
+FEATURED PROJECT 5:
+
+Company Landing Page
+
+Website:
+brandingbeez.co.uk/idr
+
+Category:
+Frontend / Full Stack
+
+Description:
+“Designed and developed a responsive company landing page with smooth interface animations and cross-device optimization.”
+
+Technology:
+React, Next.js, MongoDB Atlas, Nodemailer, Zoho Mail
+
+FEATURED PROJECT 6:
+
+AI-Powered Web Scraper and Article Summarizer
+
+Category:
+AI / Data
+
+Description:
+“Built an end-to-end Python application that extracts online articles, generates AI-assisted summaries and stores structured results in Supabase.”
+
+Technology:
+Python, Web Scraping, AI/NLP, Supabase, HTML, CSS
+
+FEATURED PROJECT 7:
+
+IoT Automated Hydroponic System
+
+Category:
+IoT
+
+Description:
+“Developed an ESP32-based hydroponic automation concept using sensor integration and real-time monitoring for intelligent agriculture.”
+
+Technology:
+Arduino, ESP32, AWS IoT Core, ThingSpeak, Blynk, Sensors
+
+==================================================
+11. COMPUTER-VISION LAB
+==================================================
+
+Create a visually distinctive section called:
+
+“Computer Vision Lab”
+
+Show three experiment cards with animated scanning overlays.
+
+License Plate Recognition System
+
+“Built an Automatic License Plate Recognition system using OpenCV and Pytesseract OCR. The processing pipeline included grayscale conversion, Canny edge detection, contour filtering, region-of-interest extraction and text recognition.”
+
+Technology:
+Python, OpenCV, Pytesseract, OCR, Canny Edge Detection
+
+Face Recognition System
+
+“Developed a real-time face detection and recognition system using OpenCV and Haar Cascade classifiers with optimized video-frame processing.”
+
+Technology:
+Python, OpenCV, Haar Cascade, Computer Vision
+
+Moving Object Detection
+
+“Built a real-time motion-detection system using frame differencing, background subtraction, contour detection and bounding-box tracking.”
+
+Technology:
+Python, OpenCV, Image Processing, Computer Vision
+
+Use abstract technical visualizations. Do not use surveillance-style imagery that feels invasive.
+
+==================================================
+12. EDUCATION AND CERTIFICATIONS
+==================================================
+
+Create an elegant split layout.
+
+EDUCATION:
+
+B.E. Computer Science Engineering
+Jansons Institute of Technology, Coimbatore
+2022–2026
+CGPA: 7.8
+
+Higher Secondary Certificate
+Scism Matriculation Higher Secondary School
+2022
+83%
+
+Secondary School Leaving Certificate
+Scism Matriculation Higher Secondary School
+2020
+93%
+
+CERTIFICATIONS:
+
+Programming Languages: C, C++ and Python
+Data Analytics
+Artificial Intelligence
+Machine Learning
+
+Display certificates only when actual certificate files or images are uploaded.
+
+Do not generate fake certificate images or verification links.
+
+==================================================
+13. ACHIEVEMENTS
+==================================================
+
+Section title:
+Recognition beyond development
+
+Achievement 1:
+
+Second Prize – Paper Presentation
+Karunya University
+
+“Won second prize for presenting work related to the IoT Automated Hydroponic System and technology-driven sustainable agriculture.”
+
+Achievement 2:
+
+Top 100 Teams – Hack4Purpose
+Anna University, Chennai
+
+“Selected among the Top 100 teams in a national-level idea-presentation competition for the IoT Automated Hydroponic System.”
+
+Achievement 3:
+
+Technical Events
+
+“Participated in technical symposiums and inter-college competitions, strengthening technical communication, presentation and problem-solving experience.”
+
+Use tasteful award icons and animated spotlight effects.
+
+Do not invent additional awards.
+
+==================================================
+14. CONTACT SECTION
+==================================================
+
+Create a strong final CTA:
+
+Heading:
+Let’s build something intelligent.
+
+Supporting copy:
+“I’m open to opportunities involving Python development, Generative AI, RAG systems, backend engineering, automation and AI-integrated products.”
+
+Contact details:
+
+Email:
+kalpanadevi7e@gmail.com
+
+Phone:
++91 82200 93277
+
+Location:
+Theni, Tamil Nadu, India
+
+Include a working contact form with:
+
+Full Name
+Email Address
+Company or Organization
+Reason for Contact
+Message
+
+Reason-for-contact options:
+
+Job Opportunity
+Freelance Project
+Collaboration
+Technical Discussion
+Other
+
+Include:
+
+• Form validation
+• Loading state
+• Success message
+• Error handling
+• Spam protection if available
+• Messages visible inside Wegic’s form-message interface
+
+Add buttons:
+
+Send Message
+Email Me Directly
+Connect on LinkedIn
+
+Add a small availability indicator:
+
+“Available for AI, Python and backend opportunities.”
+
+==================================================
+15. FOOTER
+==================================================
+
+Footer content:
+
+Kalpana Devi T
+Python & AI Developer
+
+“Building intelligent systems with Python, APIs and Generative AI.”
+
+Links:
+Home
+About
+Experience
+Projects
+Contact
+GitHub
+LinkedIn
+Download Resume
+
+Copyright:
+© 2026 Kalpana Devi T. All rights reserved.
+
+Add a subtle animated line or flowing data pattern behind the footer.
+
+==================================================
+16. ANIMATION SYSTEM
+==================================================
+
+Use a consistent animation language across the website.
+
+Include:
+
+• Smooth section reveals
+• Staggered text animations
+• Subtle parallax
+• Card tilt on hover
+• Animated gradient borders
+• Magnetic CTA buttons
+• Cursor-following ambient glow on desktop
+• Technology tags that gently float
+• Project images that slightly zoom on hover
+• Animated timeline progress
+• Page transitions
+• Background data particles
+• Code typing animation
+• Button arrow movement
+• Section-heading mask reveals
+
+Animation must support the content rather than distract from it.
+
+Important restrictions:
+
+• Do not animate every paragraph.
+• Do not create continuous aggressive motion.
+• Do not use flashing elements.
+• Do not use excessive spinning objects.
+• Do not delay access to important information.
+• Do not make text difficult to select or read.
+• Respect the user’s prefers-reduced-motion setting.
+• Disable cursor effects and heavy parallax on mobile.
+• Maintain smooth performance.
+
+==================================================
+17. RESPONSIVE REQUIREMENTS
+==================================================
+
+The website must be designed carefully for:
+
+• Large desktop
+• Standard laptop
+• Tablet
+• Small tablet
+• Mobile
+• Very small mobile screens
+
+Mobile requirements:
+
+• No horizontal overflow
+• No overlapping text
+• No tiny project cards
+• No oversized headings extending outside the screen
+• No background animations that reduce performance
+• Navigation links must be easy to tap
+• Project filters should become horizontally scrollable or collapsible
+• Architecture diagrams should convert into a vertical flow
+• Skills constellation should become expandable category cards
+• Contact fields should stack vertically
+
+==================================================
+18. ACCESSIBILITY AND USABILITY
+==================================================
+
+Ensure:
+
+• Strong colour contrast
+• Keyboard-accessible navigation
+• Visible focus states
+• Accessible labels for forms
+• Alternative text for meaningful images
+• Semantic heading hierarchy
+• Clear button labels
+• Reduced-motion compatibility
+• No information communicated through colour alone
+
+Create an optional theme switcher:
+
+Dark AI Mode
+Light Professional Mode
+
+The dark theme should remain the default.
+
+==================================================
+19. PERFORMANCE
+==================================================
+
+Keep the site visually advanced without becoming slow.
+
+Requirements:
+
+• Compress and optimize images
+• Lazy-load below-the-fold visuals
+• Avoid unnecessarily large background videos
+• Use lightweight animation effects
+• Avoid layout shifts
+• Prioritize fast first-page rendering
+• Use mobile-friendly alternatives for heavy desktop effects
+• Keep navigation responsive during animations
+
+==================================================
+20. SEO AND PROFESSIONAL METADATA
+==================================================
+
+Website title:
+Kalpana Devi T | Python & AI Developer
+
+Meta description:
+“Portfolio of Kalpana Devi T, a Python and AI Developer specializing in Generative AI, RAG systems, FastAPI, backend development, intelligent automation and AI-powered applications.”
+
+Suggested keywords:
+
+Kalpana Devi
+Python Developer
+AI Developer
+Generative AI Developer
+RAG Developer
+FastAPI Developer
+Backend Developer
+AI Automation Engineer
+Machine Learning Developer
+Tamil Nadu Developer
+OpenAI API Developer
+FAISS Developer
+
+Add:
+
+• Open Graph metadata
+• Social-sharing preview
+• Proper page titles
+• Descriptive project URLs
+• Sitemap if supported
+• Person structured data if supported
+• Favicon using a futuristic KD monogram
+
+==================================================
+21. CONTENT ACCURACY RULES
+==================================================
+
+Do not invent:
+
+• Employment history
+• Client names
+• Testimonials
+• Revenue figures
+• Performance percentages
+• User counts
+• Project metrics
+• Awards
+• Certifications
+• GitHub repositories
+• Live URLs
+• Project outcomes
+• Technologies not mentioned in the supplied content
+
+Do not add fake customer logos or fictional company endorsements.
+
+Use “Live” only for projects whose working website is provided.
+
+If a project has no public repository or working URL, hide those buttons instead of creating placeholder links.
+
+Do not describe Kalpana as a senior developer, lead engineer or expert unless that wording is explicitly provided later.
+
+Use confident but truthful copy.
+
+==================================================
+22. FINAL QUALITY STANDARD
+==================================================
+
+The finished website should immediately communicate:
+
+• Strong Python and backend knowledge
+• Practical Generative AI experience
+• Production RAG and LLM integration experience
+• API and automation development ability
+• Full-stack project exposure
+• A clear understanding of scalable system architecture
+• Professionalism and readiness for employment
+
+The final result must feel custom-built for an AI and backend engineer.
+
+Avoid:
+
+• Generic portfolio illustrations
+• Random stock-office images
+• Cartoon robots
+• Overused laptop mockups
+• Excessively bright neon colours
+• Fake statistics
+• Dense walls of text
+• Template-like layouts
+• Unnecessary testimonials
+• Skill percentage bars
+
+Before completing the website:
+
+1. Verify every navigation link.
+2. Verify the resume download.
+3. Verify all external links.
+4. Test the contact form.
+5. Test desktop, tablet and mobile layouts.
+6. Check that animations do not affect readability.
+7. Check for broken buttons.
+8. Check for placeholder text.
+9. Confirm all facts match the supplied resume.
+10. Confirm no false content has been generated.
