@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070A13"/><stop offset="1" stop-color="#10182B"/></linearGradient>
+      <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8B5CF6"/><stop offset=".52" stop-color="#22D3EE"/><stop offset="1" stop-color="#5EEAD4"/></linearGradient>
+      <linearGradient id="card"><stop stop-color="#111A2E"/><stop offset="1" stop-color="#0A101D"/></linearGradient>
+      <radialGradient id="glow"><stop stop-color="#8B5CF6" stop-opacity=".22"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+      <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#94A3B8" stroke-opacity=".045"/></pattern>
+    </defs>
+    <rect width="800" height="500" fill="url(#bg)"/>
+    <rect width="800" height="500" fill="url(#grid)"/>
+    <circle cx="400" cy="230" r="260" fill="url(#glow)"/>
+    <rect x="28" y="26" width="744" height="448" rx="24" fill="none" stroke="#8B5CF6" stroke-opacity=".18"/>
+    <g font-family="monospace">
+      <text x="55" y="72" fill="#22D3EE" font-size="11" letter-spacing="2">KD / SYSTEM ARCHIVE</text>
+      <text x="55" y="118" fill="#F8FAFC" font-size="34" font-family="Arial" font-weight="700">LANDING SYSTEM</text>
+      <text x="55" y="146" fill="#8190AE" font-size="12" letter-spacing="1.2">INTERFACE → FORM → MESSAGE</text>
+    </g>
+    <g transform="translate(120,230)">
+        <rect x="-65" y="-35" width="130" height="70" rx="14" fill="url(#card)" stroke="url(#accent)" stroke-opacity=".55"/>
+        <text x="0" y="-6" fill="#22D3EE" text-anchor="middle" font-size="9" font-family="monospace">01</text>
+        <text x="0" y="14" fill="#F8FAFC" text-anchor="middle" font-size="12" font-family="Arial" font-weight="700">Next.js</text>
+      </g><path d="M186 230 H234" stroke="url(#accent)" stroke-width="2" stroke-dasharray="7 8"/>
+            <circle r="4" fill="#5EEAD4"><animateMotion dur="2.8s" begin="-0.0s" repeatCount="indefinite" path="M186 230 H234"/></circle><g transform="translate(300,230)">
+        <rect x="-65" y="-35" width="130" height="70" rx="14" fill="url(#card)" stroke="url(#accent)" stroke-opacity=".55"/>
+        <text x="0" y="-6" fill="#22D3EE" text-anchor="middle" font-size="9" font-family="monospace">02</text>
+        <text x="0" y="14" fill="#F8FAFC" text-anchor="middle" font-size="12" font-family="Arial" font-weight="700">Motion</text>
+      </g><path d="M366 230 H414" stroke="url(#accent)" stroke-width="2" stroke-dasharray="7 8"/>
+            <circle r="4" fill="#5EEAD4"><animateMotion dur="2.8s" begin="-0.55s" repeatCount="indefinite" path="M366 230 H414"/></circle><g transform="translate(480,230)">
+        <rect x="-65" y="-35" width="130" height="70" rx="14" fill="url(#card)" stroke="url(#accent)" stroke-opacity=".55"/>
+        <text x="0" y="-6" fill="#22D3EE" text-anchor="middle" font-size="9" font-family="monospace">03</text>
+        <text x="0" y="14" fill="#F8FAFC" text-anchor="middle" font-size="12" font-family="Arial" font-weight="700">Form</text>
+      </g><path d="M546 230 H594" stroke="url(#accent)" stroke-width="2" stroke-dasharray="7 8"/>
+            <circle r="4" fill="#5EEAD4"><animateMotion dur="2.8s" begin="-1.1s" repeatCount="indefinite" path="M546 230 H594"/></circle><g transform="translate(660,230)">
+        <rect x="-65" y="-35" width="130" height="70" rx="14" fill="url(#card)" stroke="url(#accent)" stroke-opacity=".55"/>
+        <text x="0" y="-6" fill="#22D3EE" text-anchor="middle" font-size="9" font-family="monospace">04</text>
+        <text x="0" y="14" fill="#F8FAFC" text-anchor="middle" font-size="12" font-family="Arial" font-weight="700">Mail</text>
+      </g>
+    <g transform="translate(55,385)">
+      <rect width="690" height="56" rx="12" fill="#05070D" fill-opacity=".7" stroke="#94A3B8" stroke-opacity=".1"/>
+      <circle cx="18" cy="18" r="4" fill="#5EEAD4"/><text x="32" y="22" fill="#73809A" font-family="monospace" font-size="9">system.status / architecture documented</text>
+      <text x="18" y="43" fill="#A8B3CF" font-family="monospace" font-size="9">$ awaiting validated input_</text>
+    </g>
+  </svg>
