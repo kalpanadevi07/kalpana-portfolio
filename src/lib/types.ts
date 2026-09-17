@@ -6,7 +6,10 @@ export type ProjectCategory =
   | "Computer Vision"
   | "IoT"
   | "AI / Data"
-  | "Frontend";
+  | "Frontend"
+  | "Production System"
+  | "CRM"
+  | "Recruitment CRM";
 
 export interface Project {
   slug: string;
