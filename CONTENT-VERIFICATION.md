@@ -2,7 +2,7 @@
 
 - Name: Kalpana Devi T
 - Positioning: Python & AI Developer, Backend Developer, AI Automation Engineer, Generative AI and RAG Developer
-- Current role: Python & AI Developer at BrandingBeez, Coimbatore, 2025-Present
+- Current role: Python & AI Developer at BrandingBeez, Coimbatore, 2025-2026
 - Location: Theni, Tamil Nadu, India
 - Education: B.E. Computer Science Engineering, Jansons Institute of Technology, 2022-2026, CGPA 7.8
 - Contact: kalpanadevi7e@gmail.com, +91 82200 93277

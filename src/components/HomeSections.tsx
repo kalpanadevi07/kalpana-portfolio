@@ -111,7 +111,7 @@ export function ExperiencePreview() {
                 <div className="timeline-card">
                   <div className="timeline-heading">
                     <div><h3>{experience.role}</h3><p>{experience.company}</p></div>
-                    {experience.current ? <span className="current-status"><i /> Currently Working</span> : null}
+                    {experience.current ? <span className="current-status"><i /></span> : null}
                   </div>
                   <ul>{experience.bullets.map((bullet) => <li key={bullet}>{bullet}</li>)}</ul>
                 </div>

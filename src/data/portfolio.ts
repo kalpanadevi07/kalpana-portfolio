@@ -100,7 +100,7 @@ export const experiences = [
   {
     role: "Python & AI Developer",
     company: "BrandingBeez, Coimbatore",
-    period: "2025 - Present",
+    period: "2025 - 2026",
     current: true,
     bullets: [
       "Built a production AI web-analysis platform that automates website scraping, keyword extraction and SEO report generation using LLM integration, FastAPI and Node.js.",

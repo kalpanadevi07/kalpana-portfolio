@@ -450,7 +450,7 @@ Sakthi Veera Green Energy Pvt. Ltd, Chennai
 
 “Analysed business processes related to freeze-drying machinery operations and delivered structured reports.”
 
-Add a small “Currently Working” animated status marker beside the BrandingBeez role.
+Add a small animated status marker beside the BrandingBeez role.
 
 ==================================================
 10. FEATURED PROJECTS

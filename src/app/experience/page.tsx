@@ -38,7 +38,7 @@ export default function ExperiencePage() {
               <Reveal delay={index * 80} key={`${experience.role}-${experience.period}`}>
                 <article className="detailed-experience-card">
                   <div className="experience-sequence"><span>{String(index + 1).padStart(2, "0")}</span><i /></div>
-                  <div className="experience-meta"><b>{experience.period}</b>{experience.current ? <span><i /> Currently Working</span> : null}</div>
+                  <div className="experience-meta"><b>{experience.period}</b>{experience.current ? <span><i /></span> : null}</div>
                   <div className="experience-content">
                     <h2>{experience.role}</h2>
                     <h3>{experience.company}</h3>
